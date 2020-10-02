@@ -1,5 +1,5 @@
 # LetUsCsolution
-## Programming solutions of YASHAVANT KANETKAR Book ‘Let Us C’ 16th Edition<br/>
+## Programming solutions of ‘Let Us C’ 16th Edition by YASHAVANT KANETKAR<br/>
 
 **Chapter 1**      Getting Started<br/>
 **Chapter 2**      C Instructions<br/>
