@@ -2,6 +2,7 @@
 His dearness allowance is 40% of basic salary, and 
 house rent allowance is 20% of basic salary. 
 write a Programe to Calculate gross salary of Ramesh*/
+// This is a quite interesting question
 #include<stdio.h>
 int main()
 {
@@ -14,4 +15,5 @@ int main()
 	printf("basic salary of Ramesh=%.2f\n",bp);
 	printf("Dearness allowanace=%.2f\n",da);
 	printf("House Rent allowanace=%.2f\n",grpay);
+	printf("Your question is successfully done");
 }
